@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1521679065 source:c:\users\deeznuts\desktop\testa5_4bj\blackjack.cpp
+	"Card.h"
+	"Hand.h"
+	"GenericPlayer.h"
+	"Player.h"
+	"House.h"
+	"Deck.h"
+	"Game.h"
+
+1521679781 c:\users\deeznuts\desktop\testa5_4bj\card.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1521677805 c:\users\deeznuts\desktop\testa5_4bj\hand.h
+	<stdio.h>
+	"Card.h"
+
+1521679948 c:\users\deeznuts\desktop\testa5_4bj\genericplayer.h
+	"Hand.h"
+
+1521677805 c:\users\deeznuts\desktop\testa5_4bj\player.h
+	"GenericPlayer.h"
+
+1521677805 c:\users\deeznuts\desktop\testa5_4bj\house.h
+	"Player.h"
+
+1521677805 c:\users\deeznuts\desktop\testa5_4bj\deck.h
+	"House.h"
+
+1521677805 c:\users\deeznuts\desktop\testa5_4bj\game.h
+	"Deck.h"
+
+1521679781 source:c:\users\deeznuts\desktop\testa5_4bj\deck.cpp
+	"Deck.h"
+
+1521677805 source:c:\users\deeznuts\desktop\testa5_4bj\game.cpp
+	"Game.h"
+
+1521677806 source:c:\users\deeznuts\desktop\testa5_4bj\genericplayer.cpp
+	"GenericPlayer.h"
+
+1521679065 source:c:\users\deeznuts\desktop\testa5_4bj\house.cpp
+	"House.h"
+
+1521677805 source:c:\users\deeznuts\desktop\testa5_4bj\player.cpp
+	"Player.h"
+
+1521679781 source:c:\users\deeznuts\desktop\testa5_4bj\card.cpp
+	"Card.h"
+
+1521680078 source:c:\users\deeznuts\desktop\testa5_4bj\hand.cpp
+	"Hand.h"
+
+1521679065 source:c:\users\deeznuts\desktop\testa_bj\blackjack.cpp
+	"Card.h"
+	"Hand.h"
+	"GenericPlayer.h"
+	"Player.h"
+	"House.h"
+	"Deck.h"
+	"Game.h"
+
+1521680673 c:\users\deeznuts\desktop\testa_bj\card.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1521680673 c:\users\deeznuts\desktop\testa_bj\hand.h
+	<stdio.h>
+	"Card.h"
+
+1521679948 c:\users\deeznuts\desktop\testa_bj\genericplayer.h
+	"Hand.h"
+
+1521680673 c:\users\deeznuts\desktop\testa_bj\player.h
+	"GenericPlayer.h"
+
+1521680673 c:\users\deeznuts\desktop\testa_bj\house.h
+	"Player.h"
+
+1521680673 c:\users\deeznuts\desktop\testa_bj\deck.h
+	"House.h"
+
+1521680673 c:\users\deeznuts\desktop\testa_bj\game.h
+	"Deck.h"
+
+1521679781 source:c:\users\deeznuts\desktop\testa_bj\deck.cpp
+	"Deck.h"
+
+1521682665 source:c:\users\deeznuts\desktop\blackjack\blackjack.cpp
+	"Card.h"
+	"Hand.h"
+	"GenericPlayer.h"
+	"Player.h"
+	"House.h"
+	"Deck.h"
+	"Game.h"
+
+1521684273 c:\users\deeznuts\desktop\blackjack\card.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+
+1521684273 c:\users\deeznuts\desktop\blackjack\hand.h
+	<stdio.h>
+	"Card.h"
+
+1521683548 c:\users\deeznuts\desktop\blackjack\genericplayer.h
+	"Hand.h"
+
+1521684273 c:\users\deeznuts\desktop\blackjack\player.h
+	"GenericPlayer.h"
+
+1521684273 c:\users\deeznuts\desktop\blackjack\house.h
+	"Player.h"
+
+1521684273 c:\users\deeznuts\desktop\blackjack\deck.h
+	"House.h"
+
+1521684273 c:\users\deeznuts\desktop\blackjack\game.h
+	"Deck.h"
+
+1521684273 source:c:\users\deeznuts\desktop\blackjack\card.cpp
+	"Card.h"
+
+1521683381 source:c:\users\deeznuts\desktop\blackjack\deck.cpp
+	"Deck.h"
+
+1521684273 source:c:\users\deeznuts\desktop\blackjack\game.cpp
+	"Game.h"
+
+1521684273 source:c:\users\deeznuts\desktop\blackjack\genericplayer.cpp
+	"GenericPlayer.h"
+
+1521684273 source:c:\users\deeznuts\desktop\blackjack\hand.cpp
+	"Hand.h"
+
+1521684273 source:c:\users\deeznuts\desktop\blackjack\house.cpp
+	"House.h"
+
+1521684273 source:c:\users\deeznuts\desktop\blackjack\player.cpp
+	"Player.h"
+
